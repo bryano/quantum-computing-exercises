@@ -1,5 +1,6 @@
 """Tests for solution to Exercise 5.10."""
 
+import numpy as np
 import pytest
 
 import cirq
